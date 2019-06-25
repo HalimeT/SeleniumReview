@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5701" started-at="2019-06-06T17:20:29Z" finished-at="2019-06-06T17:20:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5701" started-at="2019-06-06T17:20:29Z" finished-at="2019-06-06T17:20:35Z">
+      <class name="com.TakeScreen.Task">
+        <test-method status="PASS" signature="navigate()[pri:0, instance:com.TakeScreen.Task@2a2d45ba]" name="navigate" is-config="true" duration-ms="2989" started-at="2019-06-06T17:20:29Z" finished-at="2019-06-06T17:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.TakeScreen.Task@2a2d45ba]" name="login" duration-ms="931" started-at="2019-06-06T17:20:32Z" finished-at="2019-06-06T17:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="EmployeeDetails()[pri:3, instance:com.TakeScreen.Task@2a2d45ba]" name="EmployeeDetails" duration-ms="1639" started-at="2019-06-06T17:20:33Z" finished-at="2019-06-06T17:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeDetails -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.TakeScreen.Task@2a2d45ba]" name="logout" is-config="true" duration-ms="113" started-at="2019-06-06T17:20:35Z" finished-at="2019-06-06T17:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.TakeScreen.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
